@@ -20,6 +20,8 @@ npm run test
 This automation test covers scenarios like Login, Add Cart and removing item from Cart.
 The test was configured to run into chrome browser. However it can be configured
 
+### Screenshot:
+![image](https://github.com/user-attachments/assets/25f2460f-08b3-4633-b1fb-5b6fe81b038d)
 
 
 
