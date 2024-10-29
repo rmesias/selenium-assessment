@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chai": "^5.1.2",
+    "chromedriver": "^130.0.1",
+    "mocha": "^10.7.3",
+    "selenium-webdriver": "^4.25.0"
+  },
+  "name": "selenium-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha 'test/add-to-cart-spec.js'"
+  },
+  "author": "Reyjie Mesias",
+  "license": "ISC"
+}
